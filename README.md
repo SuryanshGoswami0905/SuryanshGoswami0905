@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/9e3e6ae8-d7a7-49d9-9a5e-d1c3fc418cc8" width="200" style="border-radius: 50%;" />
+</p>
 <h1 align="center">Hi there, I'm Suryansh 👋</h1>
 
 <p align="center">
